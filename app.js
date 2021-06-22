@@ -904,7 +904,7 @@ App({
     args:{},
     selectedIndex:0,
     shopCount: 0,
-    domain: 'https://shangchao.dejianpu.cn',
+    domain: 'https://你的域名',
     count: 0,
     city: 0,
     address: ''
